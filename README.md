@@ -190,7 +190,6 @@ python tests/evaluate_model.py
 - Run **pytest** from the project root (`GradientBoosting/`) to avoid import errors, or use the `sys.path` adjustment in `test_gradient.py`.
 - The **custom dataset** (`tests/dataset.csv`) is designed for **binary classification**; modify `generate_dataset.py` for different distributions.
 
-
-##Team Members:
+## Team Members
 1. Hemanth Chaparla (A20553580)
 2. Nikhil Chowdary Annamareddy (A20551794)
