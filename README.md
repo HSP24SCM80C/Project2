@@ -191,6 +191,6 @@ python tests/evaluate_model.py
 - The **custom dataset** (`tests/dataset.csv`) is designed for **binary classification**; modify `generate_dataset.py` for different distributions.
 
 
-Team Members:
+##Team Members:
 1. Hemanth Chaparla (A20553580)
 2. Nikhil Chowdary Annamareddy (A20551794)
